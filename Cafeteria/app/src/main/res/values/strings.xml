@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cafeteria</string>
+    <string name="txtCuantas">¿Cuantas tazas de desea?</string>
+    <string name="txtNumero">Número de tazas</string>
+    <string name="txtDetalle">Detalle Compra</string>
+    <string name="txtPedido">Pedido:</string>
+    <string name="txtTotal">Total:</string>
+    <string name="txtRegresar">Regresar</string>
+    <string name="txtHacerPedido">Pedido</string>
+</resources>
